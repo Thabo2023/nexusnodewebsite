@@ -11,7 +11,7 @@ const Team = () => {
       role: "Machine Learning Engineer",
       linkedin: "https://www.linkedin.com/in/vince-mbanze-0a7722158/",
       bio: "Builds scalable ML models to transform complex data into actionable insights",
-      image: "/lovable-uploads/VinceAI.png",
+      image: "/lovable-uploads/vince.jpeg",
     },
     {
       name: "Siphosethu Gushman",
